@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "primeiro-projet-c-sharpe/1.0.0": {
+        "runtime": {
+          "primeiro-projet-c-sharpe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "primeiro-projet-c-sharpe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
