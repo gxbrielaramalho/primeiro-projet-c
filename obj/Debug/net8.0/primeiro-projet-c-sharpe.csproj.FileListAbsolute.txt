@@ -12,3 +12,4 @@ C:\Users\Gabriela\OneDrive\Área de Trabalho\github\primeiro-projet-c-sharpe\obj
 C:\Users\Gabriela\OneDrive\Área de Trabalho\github\primeiro-projet-c-sharpe\obj\Debug\net8.0\primeiro-projet-c-sharpe.pdb
 C:\Users\Gabriela\OneDrive\Área de Trabalho\github\primeiro-projet-c-sharpe\obj\Debug\net8.0\primeiro-projet-c-sharpe.genruntimeconfig.cache
 C:\Users\Gabriela\OneDrive\Área de Trabalho\github\primeiro-projet-c-sharpe\obj\Debug\net8.0\ref\primeiro-projet-c-sharpe.dll
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\primeiro-projet-c-sharpe\obj\Debug\net8.0\primeiro-projet-c-sharpe.sourcelink.json
