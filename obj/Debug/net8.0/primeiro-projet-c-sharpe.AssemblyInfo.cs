@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("primeiro-projet-c-sharpe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b527779fbcfd234449d3a454b60f8f7c128b3584")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86826dcc4f42ebbcc9636d5af51482bb63a6b8e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("primeiro-projet-c-sharpe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("primeiro-projet-c-sharpe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

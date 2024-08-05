@@ -12,7 +12,7 @@ namespace primeiro_projet_c_sharpe.models
 
         public void apresentar()
         { 
-            Console.WriteLine($"Olá, meu nome é {nome}, e tenho {idade} anos.")
+            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos.")
             }
     }
 }
